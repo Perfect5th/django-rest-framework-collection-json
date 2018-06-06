@@ -1,9 +1,0 @@
--e .
-collection-json
-django
-ipdb
-ipython
-pytest
-pytest-xdist
-tox
-six
